@@ -11,7 +11,7 @@ export TERRAFORM_PROVIDER_REPO ?= https://github.com/hashicorp/terraform-provide
 export TERRAFORM_PROVIDER_VERSION ?= 2.9.3
 export TERRAFORM_PROVIDER_DOWNLOAD_NAME ?= terraform-provider-vsphere
 export TERRAFORM_PROVIDER_DOWNLOAD_URL_PREFIX ?= https://releases.hashicorp.com/$(TERRAFORM_PROVIDER_DOWNLOAD_NAME)/$(TERRAFORM_PROVIDER_VERSION)
-export TERRAFORM_NATIVE_PROVIDER_BINARY ?= terraform-provider-vsphere_v2.9.3
+export TERRAFORM_NATIVE_PROVIDER_BINARY ?= terraform-provider-vsphere_v2.9.3_x5
 export TERRAFORM_DOCS_PATH ?= docs/resources
 
 
